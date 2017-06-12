@@ -1,0 +1,1 @@
+At the beginning of the run_analysis.R you need to set your working directory. 
